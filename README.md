@@ -36,8 +36,8 @@ Save or display the final transformed images for analysis and use plt.show() to 
 
 ## Program:
 ```python
-Developed By: RAHINI A
-Register Number: 212223230165
+Developed By: SANDHIYA P
+Register Number: 212223230183
 
 
 import cv2
